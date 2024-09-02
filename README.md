@@ -1,6 +1,6 @@
 # N-Gram Analyzer
 
-N-Gram Analyzer is a Python tool for finding the most frequent sequences of N words in a PDF file, using a French word dictionary to filter out invalid words. The analysis can be customized by specifying the minimum word length to consider, the number of most frequent N-grams to display, and the size of the N-grams.
+N-Gram Analyzer is a Python tool for finding the most frequent sequences of N words in a PDF file, using a word dictionary to filter out invalid words. The analysis can be customized by specifying the minimum word length to consider, the number of most frequent N-grams to display, and the size of the N-grams.
 
 ## Features
 
